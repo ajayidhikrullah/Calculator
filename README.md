@@ -1,1 +1,1 @@
-## SImple Calculator built with PHP OOP, HTML, CSS, JS
+## SImple Calculator built with raw PHP OOP, HTML, CSS, JS
